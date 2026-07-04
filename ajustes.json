@@ -1,0 +1,18 @@
+{
+  "wake_word": "jarvis",
+  "voz_id": "es-MX-JorgeNeural",
+  "voz_velocidad": "+10%",
+  "voz_volumen": "+0%",
+  "silencio_timeout": 0.7,
+  "silencio_threshold": 500,
+  "timeout_silencio_wake": 3.0,
+  "max_tiempo_grabacion": 15,
+  "wake_word_activo": true,
+  "siempre_encima": true,
+  "transparencia": 230,
+  "ciudad_clima": "",
+  "nombre_usuario": "senor",
+  "idioma": "es-ES",
+  "mini_pos_x": 1673,
+  "mini_pos_y": 75
+}

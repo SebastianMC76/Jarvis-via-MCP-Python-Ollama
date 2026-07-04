@@ -1,0 +1,86 @@
+{
+  "modo gaming": {
+    "descripcion": "Optimiza la PC para jugar",
+    "acciones": [
+      {
+        "tipo": "sistema",
+        "cmd": "rendimiento_alto"
+      },
+      {
+        "tipo": "sistema",
+        "cmd": "limpiar_temp"
+      },
+      {
+        "tipo": "app",
+        "cmd": "steam"
+      },
+      {
+        "tipo": "cerrar",
+        "cmd": "discord"
+      },
+      {
+        "tipo": "hablar",
+        "cmd": "Modo gaming activado. Sistema optimizado para maximo rendimiento."
+      }
+    ]
+  },
+  "modo estudio": {
+    "descripcion": "Entorno de trabajo y estudio",
+    "acciones": [
+      {
+        "tipo": "app",
+        "cmd": "chrome"
+      },
+      {
+        "tipo": "url",
+        "cmd": "https://chat.openai.com"
+      },
+      {
+        "tipo": "url",
+        "cmd": "https://www.youtube.com"
+      },
+      {
+        "tipo": "app",
+        "cmd": "notepad"
+      },
+      {
+        "tipo": "hablar",
+        "cmd": "Modo estudio activado. Su entorno esta listo, senor."
+      }
+    ]
+  },
+  "modo trabajo": {
+    "descripcion": "Herramientas de trabajo",
+    "acciones": [
+      {
+        "tipo": "app",
+        "cmd": "chrome"
+      },
+      {
+        "tipo": "app",
+        "cmd": "notepad"
+      },
+      {
+        "tipo": "hablar",
+        "cmd": "Modo trabajo activado. Listo para ser productivo, senor."
+      }
+    ]
+  },
+  "modo descanso": {
+    "descripcion": "Cierra todo y pone musica",
+    "acciones": [
+      {
+        "tipo": "url",
+        "cmd": "https://www.youtube.com/results?search_query=musica+relajante&sp=EgIQAQ%3D%3D"
+      },
+      {
+        "tipo": "sistema",
+        "cmd": "volumen_50"
+      },
+      {
+        "tipo": "hablar",
+        "cmd": "Modo descanso activado. Relájese, senor."
+      }
+    ]
+  }
+}
