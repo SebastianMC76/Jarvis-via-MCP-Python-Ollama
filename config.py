@@ -4,7 +4,7 @@
 # ============================================================
 
 # ── IA principal ──────────────────────────────────────────────
-API_KEY   = "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"
+API_KEY   = ""
 WAKE_WORD = "jarvis"
 MODELO    = "llama-3.3-70b-versatile"
 
@@ -33,25 +33,25 @@ MAX_RECORD_SECS   = 20
 #   -> Selecciona tu proyecto -> APIs y servicios -> Biblioteca
 #   -> Busca "YouTube Data API v3" -> Habilitar
 #   -> Credenciales -> Crear credencial -> Clave de API
-YOUTUBE_API_KEY = "AIzaSyA-synKj00NQsLyg2kxEqiWeTds1gs9QiE"
+YOUTUBE_API_KEY = ""
 
 # OpenWeatherMap - clima actual
 # Como obtenerla: openweathermap.org/api
 #   -> Sign Up gratis -> My API Keys -> copia la key
 #   -> Espera 10 minutos antes de usarla (activacion)
-OWM_API_KEY  = "8f59f0f5b4605661fca8ce90fb957771"
+OWM_API_KEY  = ""
 CIUDAD_CLIMA = ""   # dejar vacio para detectar automaticamente por IP
 
 # NewsAPI - noticias del dia
 # Como obtenerla: newsapi.org
 #   -> Get API Key -> registro gratis -> copia la key
-NEWSAPI_KEY = "1aec7095dbea47018caf91f20991c5b5"
+NEWSAPI_KEY = ""
 
 # ExchangeRate-API - tipo de cambio de divisas
 # Como obtenerla: exchangerate-api.com
 #   -> Get Free Key -> registro gratis -> copia la key
 #   -> Plan gratuito: 1500 solicitudes/mes
-EXCHANGERATE_KEY = "8db7aa1eeb29f222d81dd642"
+EXCHANGERATE_KEY = ""
 
 # Google Translation API (opcional)
 # Como obtenerla: console.cloud.google.com
